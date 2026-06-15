@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AIFoodCamera</string>
+    <string name="camera_permission_rationale">需要相机权限才能拍摄食物照片</string>
+    <string name="camera_permission_denied">未授予相机权限，无法使用拍照功能</string>
+    <string name="capture_button_desc">拍照</string>
+    <string name="analyzing">正在识别食物…</string>
+    <string name="error_no_api_key">请在 local.properties 中配置 SILICONFLOW_API_KEY</string>
+    <string name="error_analysis_failed">识别失败，请重试</string>
+    <string name="calories_format">估算热量：%1$s 千卡</string>
+    <string name="retry">重试</string>
+    <string name="grant_permission">授予权限</string>
+    <string name="viewfinder_hint">将食物对准框内</string>
+    <string name="macro_nutrients">宏量营养素</string>
+    <string name="edit_name">修改名称</string>
+    <string name="food_name_hint">输入食物名称</string>
+    <string name="save">保存</string>
+    <string name="cancel">取消</string>
+    <string name="tts_toggle">播报控制</string>
+    <string name="retake_photo">重新拍照</string>
+    <string name="analyze_another">分析另一张</string>
+    <string name="feedback">识别不准？我要反馈</string>
+    <string name="feedback_thanks">感谢您的反馈，我们会持续优化！</string>
+    <string name="analysis_failed_hint">哎呀，分析暂时失败了，您可以点击重试或手动输入</string>
+    <string name="manual_input">手动输入</string>
+    <string name="dismiss">关闭</string>
+    <string name="nav_camera">拍照</string>
+    <string name="nav_diary">日记</string>
+    <string name="nav_settings">设置</string>
+    <string name="diary_title">饮食日记本</string>
+    <string name="today_calories">今日已记录：%1$d 千卡</string>
+    <string name="calorie_goal_progress">目标 %1$d 千卡</string>
+    <string name="diary_empty">还没有记录，快去拍一张美食吧！</string>
+    <string name="delete">删除</string>
+    <string name="settings_title">设置</string>
+    <string name="daily_calorie_goal">每日热量目标</string>
+    <string name="tts_mute_default">默认静音播报</string>
+    <string name="tts_mute_desc">开启后识别完成不会自动朗读</string>
+</resources>
